@@ -1,0 +1,33 @@
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\ApplicationInsights.config
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\csc.exe
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\System.Collections.Immutable.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\vbc.exe
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\VBCSCompiler.exe
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\roslyn\VBCSCompiler.exe.config
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\HRL Connect.dll.config
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\HRL Connect.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\HRL Connect.pdb
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.Web.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.WindowsServer.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.ApplicationInsights.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.Web.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.AI.WindowsServer.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.ApplicationInsights.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\obj\Debug\HRL Connect.csprojResolveAssemblyReference.cache
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\obj\Debug\HRL Connect.dll
+c:\users\k.chandra.mandal\documents\visual studio 2015\Projects\HRL Connect\HRL Connect\obj\Debug\HRL Connect.pdb
